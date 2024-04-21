@@ -26,6 +26,7 @@ function jugar(equipo1, equipo2, messiPlays) {
 }
 // ----------------------
 // no utilizar any
+
 var arreglo = [1, 2, 3, 4, 5];
 var arreglo2 = ["string1", "string2"];
 var programador = {
